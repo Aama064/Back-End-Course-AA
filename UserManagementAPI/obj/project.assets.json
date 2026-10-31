@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pipea\\Documentos\\BE course\\Course 3\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pipea\\Documentos\\BE course\\Back-End-Course-AA\\UserManagementAPI\\UserManagementAPI.csproj",
       "projectName": "UserManagementAPI",
-      "projectPath": "C:\\Users\\pipea\\Documentos\\BE course\\Course 3\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectPath": "C:\\Users\\pipea\\Documentos\\BE course\\Back-End-Course-AA\\UserManagementAPI\\UserManagementAPI.csproj",
       "packagesPath": "C:\\Users\\pipea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pipea\\Documentos\\BE course\\Course 3\\UserManagementAPI\\obj\\",
+      "outputPath": "C:\\Users\\pipea\\Documentos\\BE course\\Back-End-Course-AA\\UserManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
